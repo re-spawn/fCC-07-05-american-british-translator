@@ -1,7 +1,7 @@
 {
-  "name": "american-british-english-translator",
+  "name": "fCC-07-05-american-british-translator",
   "version": "2.0.0",
-  "description": "Quality Assurance 5: American / British English Translator",
+  "description": "freeCodeCamp (fCC) - Quality Assurance (07) - Quality Assurance Projects - American British Translator (05)",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
@@ -18,7 +18,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "jsdom": "^16.4.0",
-    "mocha": "^8.1.3",
+    "mocha": "^10.2.0",
     "nodemon": "^2.0.4"
   },
   "license": "MIT"
